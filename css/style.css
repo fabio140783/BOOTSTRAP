@@ -1,0 +1,28 @@
+.navbar {
+    background-color: #fcc200;
+}
+
+.cerv {
+    background-color: #ffd700;
+}
+
+.margin {
+    margin-top: 8px;
+    padding-bottom: 12px;
+}
+
+.arounded-circle {
+    border-radius: 30%;
+}
+
+.Parceiros {
+    background-color: #f0e68c;
+}
+
+.Serviços {
+    background-color: #fffacd;
+}
+
+.footer {
+    color: red;
+}
